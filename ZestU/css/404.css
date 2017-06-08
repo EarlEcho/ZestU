@@ -1,0 +1,56 @@
+#theme {
+	margin-top: 20px;
+	margin-left: 80px;
+}
+
+#theme img {
+	width: 310px;
+}
+
+#enrror {
+	margin-left: 130px;
+	font-family: "Microsoft YaHei";
+	font-weight: bold;
+	font-size: 40px;
+	color: #333333;
+}
+
+#no_find {
+	font-weight: bold;
+	font-size: 12px;
+	font-family: "Microsoft YaHei";
+	margin-left: 200px;
+}
+
+#motion {
+	margin-left: 200px;
+	padding-bottom: 0px;
+}
+
+#re_turn {
+	margin-left: 360px;
+	padding-top: 30px;
+	margin-top: 30px;
+}
+
+#re_turn a{
+	font-family: "Microsoft YaHei";
+	font-weight: bold;
+	color: #85744e;
+}
+
+#foot {
+	float: left;
+	margin-left: 70px;
+	margin-top: 30px;
+	padding-bottom: 10px;
+}
+
+#foot img {
+	width: 300px;
+	height: 48px;
+}
+
+#re_turn a:hover {
+	text-decoration: none;
+}

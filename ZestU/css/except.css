@@ -1,0 +1,29 @@
+h1 {
+	margin-top: 20px;
+	margin-left: 120px;
+	font-family: "Microsoft YaHei";
+	font-weight: bold;
+	font-size: 33px;
+	color: #333333;
+}
+
+#except {
+	margin-top: 30px;
+	margin-left: 210px;
+}
+
+#return {
+	margin-top: 30px;
+}
+
+#return a {
+	margin-left: 260px;
+	margin-top: 50px;
+	font-family: "Microsoft YaHei";
+	font-weight: bold;
+	color: #85744e;
+}
+
+#return a:hover {
+	text-decoration:none;
+}
